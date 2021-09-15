@@ -1,0 +1,12 @@
+
+             PROBLEMS BASED ON HEAP DATA STRUCTURE
+
+
+1. Merge k sorted linked lists
+	
+   https://leetcode.com/problems/merge-k-sorted-lists/
+
+2. K Closest Points to Origin
+ 
+   https://leetcode.com/problems/k-closest-points-to-origin/
+
