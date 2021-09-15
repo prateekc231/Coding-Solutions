@@ -17,5 +17,5 @@
 4. Merge k Sorted Arrays 
 
    https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1#
-5. 
+ 
 
