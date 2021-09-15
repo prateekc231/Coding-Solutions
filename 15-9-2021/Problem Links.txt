@@ -10,3 +10,11 @@
  
    https://leetcode.com/problems/k-closest-points-to-origin/
 
+3. Top K Frequent Words
+
+   https://leetcode.com/problems/top-k-frequent-words/
+
+4. Merge k Sorted Arrays 
+
+   https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1#
+
