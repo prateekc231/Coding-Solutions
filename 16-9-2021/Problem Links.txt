@@ -1,0 +1,21 @@
+
+             PROBLEMS BASED ON HEAP DATA STRUCTURE
+
+
+1. Swap Nodes in Pairs
+	
+   https://leetcode.com/problems/swap-nodes-in-pairs/
+
+2. Remove Nth Node From End of List
+ 
+   https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+3. Odd Even Linked List
+
+   https://leetcode.com/problems/odd-even-linked-list/
+
+4. Maximize Toys 
+
+   https://practice.geeksforgeeks.org/problems/maximize-toys0331/1
+ 
+
