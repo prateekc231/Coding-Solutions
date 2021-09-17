@@ -1,5 +1,5 @@
 
-             PROBLEMS BASED ON HEAP DATA STRUCTURE
+             PROBLEMS BASED ON LINKED LIST DATA STRUCTURE
 
 
 1. Swap Nodes in Pairs
