@@ -10,9 +10,9 @@
  
    https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
 
-3. 
+3. Number of Islands
 
-   
+   https://leetcode.com/problems/number-of-islands/
 
 4. 
 
