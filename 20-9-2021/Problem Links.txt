@@ -6,9 +6,9 @@
 	
    https://leetcode.com/problems/word-ladder/
 
-2. 
+2.  Is Graph Bipartite?
  
-   
+   https://leetcode.com/problems/is-graph-bipartite/
 
 3. 
 
