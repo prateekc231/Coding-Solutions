@@ -6,9 +6,9 @@
 	
    https://leetcode.com/problems/missing-number/
 
-2. 
+2. Single Number
  
-   
+   https://leetcode.com/problems/single-number/
 
 3. 
 
