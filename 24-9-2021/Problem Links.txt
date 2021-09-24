@@ -1,0 +1,25 @@
+
+             PROBLEMS BASED ON BITMASKING
+
+
+1. Missing Number
+	
+   https://leetcode.com/problems/missing-number/
+
+2. 
+ 
+   
+
+3. 
+
+   
+
+4. 
+
+	 
+
+	
+
+   
+ 
+
