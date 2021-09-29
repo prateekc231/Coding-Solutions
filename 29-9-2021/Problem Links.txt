@@ -6,9 +6,9 @@
 	
    https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1#
 
-2. 
- 
+2. Friends Pairing Problem 
    
+   https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1#	
 
 3. 
 
