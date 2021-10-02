@@ -6,9 +6,9 @@
 	
    https://leetcode.com/problems/count-submatrices-with-all-ones/
 
-2. 
+2. Count Square Submatrices with All Ones
  
-   
+   https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 
 3. 
 
