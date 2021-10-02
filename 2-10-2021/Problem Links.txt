@@ -10,9 +10,9 @@
  
    https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 
-3. 
+3. Count Substrings That Differ by One Character
 
-   
+   https://leetcode.com/problems/count-substrings-that-differ-by-one-character/
 
 4. 
 
