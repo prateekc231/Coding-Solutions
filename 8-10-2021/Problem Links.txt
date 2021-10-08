@@ -1,0 +1,21 @@
+
+             PROBLEMS BASED ON DYNAMIC PROGRAMMING
+
+
+1. Partition Array for Maximum Sum
+	
+   https://leetcode.com/problems/partition-array-for-maximum-sum/
+
+2. 
+ 
+   
+
+3. 
+
+   
+
+4. 
+
+   
+ 
+
