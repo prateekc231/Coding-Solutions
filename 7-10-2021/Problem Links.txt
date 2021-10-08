@@ -1,0 +1,21 @@
+
+             PROBLEMS BASED ON DYNAMIC PROGRAMMING
+
+
+1. Sort Integers by The Power Value
+	
+   https://leetcode.com/problems/sort-integers-by-the-power-value/
+
+2. 
+ 
+   
+
+3. 
+
+   
+
+4. 
+
+   
+ 
+
